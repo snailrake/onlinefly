@@ -1,0 +1,15 @@
+[submodule "FlyWeb"]
+	path = FlyWeb
+	url = https://github.com/B1smarQ/FlyWeb.git
+[submodule "analytics-service-onlinefly"]
+	path = analytics-service-onlinefly
+	url = https://github.com/snailrake/analytics-service-onlinefly.git
+[submodule "fly-service-onlinefly"]
+	path = fly-service-onlinefly
+	url = https://github.com/snailrake/fly-service-onlinefly.git
+[submodule "notification-service-onlinefly"]
+	path = notification-service-onlinefly
+	url = https://github.com/snailrake/notification-service-onlinefly.git
+[submodule "infra-onlinefly"]
+	path = infra-onlinefly
+	url = https://github.com/snailrake/infra-onlinefly.git
